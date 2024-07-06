@@ -1,4 +1,4 @@
-# Medical Bot with LangChain and Chainlit
+# Medical Bot 
 
 This project creates an advanced question-answering system tailored for medical inquiries. It harnesses the power of large language models, specifically Llama 2, to process and respond to user queries. The system's knowledge is derived from a collection of PDF documents, which are efficiently indexed and retrieved using vector store technology.
 
